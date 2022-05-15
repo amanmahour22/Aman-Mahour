@@ -138,4 +138,7 @@ nav ul li {
   .songName {
     font-size: small;
   }
+  .timestamp {
+    font-size: x-small;
+  }
 }
