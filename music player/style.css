@@ -139,6 +139,6 @@ nav ul li {
     font-size: small;
   }
   .timestamp {
-    font-size: x-small;
+    font-size: smaller;
   }
 }
